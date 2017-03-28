@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1431592200 source:c:\users\asus\documents\kuliah\othello 1.5\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<crt.cpp>
+
